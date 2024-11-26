@@ -1,7 +1,7 @@
 # Hi, i'm Trung 👋
 
 - 🏠 I’m living in Nantes, France.
-- 👨‍💻 I’m currently learning Web Development at the Wild Code School.
+- 👨‍💻 I’m a FullStack Web Developer.
 - 🎮 I love playing games and watching some animes.
 - ☕️ I’m a coffeer.
 
